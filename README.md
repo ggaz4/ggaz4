@@ -1,0 +1,3 @@
+- 👋 Hi, I’m George
+- 👀 I’m interested in robotics programming (C/C++)
+- 🌱 I’m currently learning GoLang
